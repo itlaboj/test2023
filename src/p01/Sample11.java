@@ -6,6 +6,7 @@ public class Sample11 {
 		System.out.println("巨人");
 		System.out.println("阪神");
 		System.out.println("ヤクルト");
+		System.out.println("ヤクルト");
 	}
 
 }
